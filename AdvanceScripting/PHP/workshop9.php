@@ -1,10 +1,8 @@
 ﻿<?php
-// Workshop 9
 //-----------------------------------------------------------------------------------------------------------------------------------
-// http://php.net/manual/en/fann.examples-1.php#117242 										    -
-//																    -
-// Task:															    -
-// Write a PHP script to train an artificial neural network on images from two sample sets and then classify a third set of images. -
+// http://php.net/manual/en/fann.examples-1.php#117242 										    -															    -
+//															    -
+// PHP script to train an artificial neural network on images from two sample sets and then classify a third set of images. -
 //-----------------------------------------------------------------------------------------------------------------------------------
 
 
